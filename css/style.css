@@ -551,6 +551,18 @@ body{
 .scroll_magic img{
     bottom: 0px;
 }
+.scroll_maxon img{
+    bottom: -2403px;
+}
+.scroll_appzone img{
+    bottom: -3169px;
+}
+.scroll_thanks img{
+    bottom: -928px;
+}
+.scroll_news img{
+    bottom: -1623px;
+}
 .scroll_screen:hover img {
     bottom: 0;
     -webkit-transition: all 11s;
